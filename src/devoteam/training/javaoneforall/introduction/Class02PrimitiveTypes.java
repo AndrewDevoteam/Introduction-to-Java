@@ -1,4 +1,4 @@
-package devoteam.training.javaoneforall;
+package devoteam.training.javaoneforall.introduction;
 
 public class Class02PrimitiveTypes {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package devoteam.training.javaoneforall;
+package devoteam.training.javaoneforall.introduction;
 
 /**
  * This is the class HelloAndrew and this si a <b>javadoc</b>

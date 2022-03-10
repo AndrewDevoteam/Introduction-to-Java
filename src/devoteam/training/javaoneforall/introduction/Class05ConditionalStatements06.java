@@ -1,4 +1,4 @@
-package devoteam.training.javaoneforall;
+package devoteam.training.javaoneforall.introduction;
 
 public class Class05ConditionalStatements06 {
     public static void main(String[] args) {
