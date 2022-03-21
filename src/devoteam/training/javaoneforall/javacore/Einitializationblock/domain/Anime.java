@@ -3,6 +3,11 @@ package devoteam.training.javaoneforall.javacore.Einitializationblock.domain;
 public class Anime {
     private String name;
     private int[] episodes;
+    //Process it follows
+    // 1 - Memory is Allocated
+    // 2 - Each class Attribute is initialized
+    // 3 - Init block is executed
+    // 4 - Constructor is executed
 
     {
         episodes = new int[100];
